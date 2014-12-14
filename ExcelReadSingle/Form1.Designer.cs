@@ -33,6 +33,8 @@
             this.filePath = new System.Windows.Forms.TextBox();
             this.nextButton = new System.Windows.Forms.Button();
             this.cellValue = new System.Windows.Forms.TextBox();
+            this.previousButton = new System.Windows.Forms.Button();
+            this.rowLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // openFileDialog1
@@ -69,16 +71,37 @@
             // 
             // cellValue
             // 
-            this.cellValue.Location = new System.Drawing.Point(13, 43);
+            this.cellValue.Location = new System.Drawing.Point(95, 43);
             this.cellValue.Name = "cellValue";
-            this.cellValue.Size = new System.Drawing.Size(425, 20);
+            this.cellValue.Size = new System.Drawing.Size(343, 20);
             this.cellValue.TabIndex = 3;
+            // 
+            // previousButton
+            // 
+            this.previousButton.Location = new System.Drawing.Point(13, 40);
+            this.previousButton.Name = "previousButton";
+            this.previousButton.Size = new System.Drawing.Size(75, 23);
+            this.previousButton.TabIndex = 4;
+            this.previousButton.Text = "Previous";
+            this.previousButton.UseVisualStyleBackColor = true;
+            this.previousButton.Click += new System.EventHandler(this.previousButton_Click);
+            // 
+            // rowLabel
+            // 
+            this.rowLabel.AutoSize = true;
+            this.rowLabel.Location = new System.Drawing.Point(13, 70);
+            this.rowLabel.Name = "rowLabel";
+            this.rowLabel.Size = new System.Drawing.Size(32, 13);
+            this.rowLabel.TabIndex = 5;
+            this.rowLabel.Text = "Row:";
             // 
             // ExcelProcessor
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(536, 83);
+            this.ClientSize = new System.Drawing.Size(536, 109);
+            this.Controls.Add(this.rowLabel);
+            this.Controls.Add(this.previousButton);
             this.Controls.Add(this.cellValue);
             this.Controls.Add(this.nextButton);
             this.Controls.Add(this.filePath);
@@ -97,6 +120,8 @@
         private System.Windows.Forms.TextBox filePath;
         private System.Windows.Forms.Button nextButton;
         private System.Windows.Forms.TextBox cellValue;
+        private System.Windows.Forms.Button previousButton;
+        private System.Windows.Forms.Label rowLabel;
     }
 }
 

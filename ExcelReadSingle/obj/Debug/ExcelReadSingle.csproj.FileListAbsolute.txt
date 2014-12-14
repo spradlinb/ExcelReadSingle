@@ -1,0 +1,11 @@
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\bin\Debug\ExcelReadSingle.exe.config
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\bin\Debug\ExcelReadSingle.exe
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\bin\Debug\ExcelReadSingle.pdb
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\bin\Debug\Excel.dll
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\bin\Debug\Excel.xml
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\obj\Debug\ExcelReadSingle.csprojResolveAssemblyReference.cache
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\obj\Debug\ExcelReadSingle.Properties.Resources.resources
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\obj\Debug\ExcelReadSingle.csproj.GenerateResource.Cache
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\obj\Debug\ExcelReadSingle.exe
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\obj\Debug\ExcelReadSingle.pdb
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\obj\Debug\ExcelReadSingle.ExcelProcessor.resources
