@@ -9,3 +9,7 @@ D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\obj\Debug\Exce
 D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\obj\Debug\ExcelReadSingle.exe
 D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\obj\Debug\ExcelReadSingle.pdb
 D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\obj\Debug\ExcelReadSingle.ExcelProcessor.resources
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\bin\Debug\ExcelReadSingle.exe.manifest
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\bin\Debug\ExcelReadSingle.application
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\obj\Debug\ExcelReadSingle.exe.manifest
+D:\Documents\Backups\VisualStudio\ExcelReadSingle\ExcelReadSingle\obj\Debug\ExcelReadSingle.application
